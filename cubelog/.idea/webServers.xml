@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76c24239-2cd3-4421-9b05-a90e588dc51e" name="cubelog" url="http://linux13.yoncu.com">
+        <fileTransfer rootFolder="/public_html/cubelog" host="linux13.yoncu.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
